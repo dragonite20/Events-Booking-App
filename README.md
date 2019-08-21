@@ -4,7 +4,7 @@ The main funtionality are to create events , login and authentictate users , sho
 
 ![Event-Booker](./EvBk1.JPG)
 ![Event-Booker](./EvBk2.JPG)
-![Event-Booker](./EvBk3.JPG)
+![Event-Booker](./EvBK3.JPG)
 
 
 # Usage
